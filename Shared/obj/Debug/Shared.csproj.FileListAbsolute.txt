@@ -1,0 +1,8 @@
+C:\Users\Tomáš\documents\visual studio 2013\Projects\FTPSync\Shared\bin\Debug\Shared.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\FTPSync\Shared\bin\Debug\Shared.pdb
+C:\Users\Tomáš\documents\visual studio 2013\Projects\FTPSync\Shared\obj\Debug\Shared.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\FTPSync\Shared\obj\Debug\Shared.pdb
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\Shared\bin\Debug\Shared.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\Shared\bin\Debug\Shared.pdb
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\Shared\obj\Debug\Shared.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\Shared\obj\Debug\Shared.pdb

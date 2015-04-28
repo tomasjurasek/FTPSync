@@ -1,0 +1,5 @@
+C:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulSecurity\bin\Debug\ModulSecurity.dll
+C:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulSecurity\bin\Debug\ModulSecurity.pdb
+C:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulSecurity\obj\Debug\ModulSecurity.csprojResolveAssemblyReference.cache
+C:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulSecurity\obj\Debug\ModulSecurity.dll
+C:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulSecurity\obj\Debug\ModulSecurity.pdb

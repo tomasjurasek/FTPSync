@@ -1,0 +1,17 @@
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\bin\Debug\AT.NET-FTPSync.exe.config
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\bin\Debug\AT.NET-FTPSync.exe.manifest
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\bin\Debug\AT.NET-FTPSync.application
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\bin\Debug\AT.NET-FTPSync.exe
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\bin\Debug\AT.NET-FTPSync.pdb
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\bin\Debug\ftplib.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\bin\Debug\ModulWatcher.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\bin\Debug\Shared.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\bin\Debug\ModulWatcher.pdb
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\bin\Debug\Shared.pdb
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\obj\Debug\AT.NET-FTPSync.csprojResolveAssemblyReference.cache
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\obj\Debug\AT.NET_FTPSync.ProjectInstaller.resources
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\obj\Debug\AT.NET-FTPSync.csproj.GenerateResource.Cache
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\obj\Debug\AT.NET-FTPSync.exe.manifest
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\obj\Debug\AT.NET-FTPSync.application
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\obj\Debug\AT.NET-FTPSync.exe
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\obj\Debug\AT.NET-FTPSync.pdb

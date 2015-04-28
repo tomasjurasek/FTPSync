@@ -1,0 +1,11 @@
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\Resources\bin\Debug\Resources.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\Resources\bin\Debug\Resources.pdb
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\Resources\bin\Debug\cs-CZ\Resources.resources.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\Resources\bin\Debug\en-US\Resources.resources.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\Resources\obj\Debug\Resources.Resource.cs-CZ.resources
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\Resources\obj\Debug\Resources.Resource.en-US.resources
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\Resources\obj\Debug\cs-CZ\Resources.resources.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\Resources\obj\Debug\en-US\Resources.resources.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\Resources\obj\Debug\Resources.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\Resources\obj\Debug\Resources.pdb

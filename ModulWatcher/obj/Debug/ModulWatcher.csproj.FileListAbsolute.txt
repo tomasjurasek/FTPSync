@@ -1,0 +1,16 @@
+C:\Users\Tomáš\documents\visual studio 2013\Projects\FTPSync\ModulWatcher\bin\Debug\ModulWatcher.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\FTPSync\ModulWatcher\bin\Debug\ModulWatcher.pdb
+C:\Users\Tomáš\documents\visual studio 2013\Projects\FTPSync\ModulWatcher\obj\Debug\ModulWatcher.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\FTPSync\ModulWatcher\obj\Debug\ModulWatcher.pdb
+C:\Users\Tomáš\documents\visual studio 2013\Projects\FTPSync\ModulWatcher\bin\Debug\Shared.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\FTPSync\ModulWatcher\bin\Debug\Shared.pdb
+C:\Users\Tomáš\documents\visual studio 2013\Projects\FTPSync\ModulWatcher\obj\Debug\ModulWatcher.csprojResolveAssemblyReference.cache
+C:\Users\Tomáš\documents\visual studio 2013\Projects\FTPSync\ModulWatcher\bin\Debug\ftplib.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\bin\Debug\ModulWatcher.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\bin\Debug\ModulWatcher.pdb
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\bin\Debug\ftplib.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\bin\Debug\Shared.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\bin\Debug\Shared.pdb
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\obj\Debug\ModulWatcher.csprojResolveAssemblyReference.cache
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\obj\Debug\ModulWatcher.dll
+C:\Users\Tomáš\documents\visual studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\obj\Debug\ModulWatcher.pdb

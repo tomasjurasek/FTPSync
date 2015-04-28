@@ -1,0 +1,219 @@
+aaa - kopie - kopie.txt byl nahran
+aaaaaaaaaaaaaaa - kopie (2).txt byl nahran
+aaaaaaaaaaaaaaa - kopie.txt byl nahran
+hostingstart - kopie.html byl nahran
+hostingstart - kopie (2).html byl nahran
+popup - kopie (2).PNG byl nahran
+popup - kopie.PNG byl nahran
+ OnStart: System.Reflection.TargetInvocationException: Cíl vyvolání způsobil výjimku. ---> System.ArgumentException: Cesta nemá platný tvar.
+   v System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   v System.IO.Path.GetFullPathInternal(String path)
+   v System.IO.Path.GetFullPath(String path)
+   v System.IO.FileSystemWatcher.StartRaisingEvents()
+   v System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   v ModulWatcher.Watch.Check() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Watch.cs:řádek 55
+   v ModulWatcher.Main..ctor() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Main.cs:řádek 17
+   --- Konec trasování zásobníku pro vnitřní výjimku ---
+   v System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   v System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   v System.Activator.CreateInstance(Type type)
+   v AT.NET_FTPSync.Service1.OnStart(String[] args) v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\Service1.cs:řádek 36
+ OnStart: System.Reflection.TargetInvocationException: Cíl vyvolání způsobil výjimku. ---> System.ArgumentException: Cesta nemá platný tvar.
+   v System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   v System.IO.Path.GetFullPathInternal(String path)
+   v System.IO.Path.GetFullPath(String path)
+   v System.IO.FileSystemWatcher.StartRaisingEvents()
+   v System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   v ModulWatcher.Watch.Check() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Watch.cs:řádek 55
+   v ModulWatcher.Main..ctor() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Main.cs:řádek 17
+   --- Konec trasování zásobníku pro vnitřní výjimku ---
+   v System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   v System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   v System.Activator.CreateInstance(Type type)
+   v AT.NET_FTPSync.Service1.OnStart(String[] args) v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\Service1.cs:řádek 36
+ OnStart: System.Reflection.TargetInvocationException: Cíl vyvolání způsobil výjimku. ---> System.ArgumentException: Cesta nemá platný tvar.
+   v System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   v System.IO.Path.GetFullPathInternal(String path)
+   v System.IO.Path.GetFullPath(String path)
+   v System.IO.FileSystemWatcher.StartRaisingEvents()
+   v System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   v ModulWatcher.Watch.Check() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Watch.cs:řádek 55
+   v ModulWatcher.Main..ctor() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Main.cs:řádek 17
+   --- Konec trasování zásobníku pro vnitřní výjimku ---
+   v System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   v System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   v System.Activator.CreateInstance(Type type)
+   v AT.NET_FTPSync.Service1.OnStart(String[] args) v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\Service1.cs:řádek 36
+ OnStart: System.Reflection.TargetInvocationException: Cíl vyvolání způsobil výjimku. ---> System.ArgumentException: Cesta nemá platný tvar.
+   v System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   v System.IO.Path.GetFullPathInternal(String path)
+   v System.IO.Path.GetFullPath(String path)
+   v System.IO.FileSystemWatcher.StartRaisingEvents()
+   v System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   v ModulWatcher.Watch.Check() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Watch.cs:řádek 55
+   v ModulWatcher.Main..ctor() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Main.cs:řádek 17
+   --- Konec trasování zásobníku pro vnitřní výjimku ---
+   v System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   v System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   v System.Activator.CreateInstance(Type type)
+   v AT.NET_FTPSync.Service1.OnStart(String[] args) v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\Service1.cs:řádek 36
+System.Net.WebException: Vzdálený server vrátil chybu: (550) Soubor není k dispozici (např. nebyl nalezen, nelze k němu přistoupit)..
+   v System.Net.FtpWebRequest.SyncRequestCallback(Object obj)
+   v System.Net.FtpWebRequest.RequestCallback(Object obj)
+   v System.Net.CommandStream.Dispose(Boolean disposing)
+   v System.IO.Stream.Close()
+   v System.IO.Stream.Dispose()
+   v System.Net.ConnectionPool.Destroy(PooledStream pooledStream)
+   v System.Net.ConnectionPool.PutConnection(PooledStream pooledStream, Object owningObject, Int32 creationTimeout, Boolean canReuse)
+   v System.Net.FtpWebRequest.FinishRequestStage(RequestStage stage)
+   v System.Net.FtpWebRequest.GetResponse()
+   v ModulWatcher.FTP.CheckIfFileExistsOnFtp(String pathFile) v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\FTP.cs:řádek 287
+bbbb.txt byl nahran
+aaa - kopie - kopie (2).txt byl nahran
+aaa - kopie.txt byl nahran
+aaaaaaaaaaaaaaa.txt byl nahran
+popup.PNG byl nahran
+hostingstart.html byl nahran
+aaaaaaaaaaaaaaa - kopie (2).txt byl nahran
+aaa - kopie - kopie.txt byl nahran
+aaaaaaaaaaaaaaa - kopie.txt byl nahran
+hostingstart - kopie (2).html byl nahran
+hostingstart - kopie.html byl nahran
+popup - kopie (2).PNG byl nahran
+popup - kopie.PNG byl nahran
+hostingstart - kopie - kopie.html byl nahran
+hostingstart - kopie - kopie.html byl nahran
+hostingstart - kopie - kopie.html byl nahran
+bbbb.txt byl nahran
+bbbb.txt byl nahran
+bbbb.txt byl nahran
+bbbb.txt byl nahran
+aaa - kopie.txt byl nahran
+aaa - kopie - kopie (2).txt byl nahran
+aaaaaaaaaaaaaaa.txt byl nahran
+popup.PNG byl nahran
+hostingstart.html byl nahran
+ OnStart: System.Reflection.TargetInvocationException: Cíl vyvolání způsobil výjimku. ---> System.ArgumentException: Cesta nemá platný tvar.
+   v System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   v System.IO.Path.GetFullPathInternal(String path)
+   v System.IO.Path.GetFullPath(String path)
+   v System.IO.FileSystemWatcher.StartRaisingEvents()
+   v System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   v ModulWatcher.Watch.Check() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Watch.cs:řádek 55
+   v ModulWatcher.Main..ctor() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Main.cs:řádek 17
+   --- Konec trasování zásobníku pro vnitřní výjimku ---
+   v System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   v System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   v System.Activator.CreateInstance(Type type)
+   v AT.NET_FTPSync.Service1.OnStart(String[] args) v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\Service1.cs:řádek 36
+ OnStart: System.Reflection.TargetInvocationException: Cíl vyvolání způsobil výjimku. ---> System.ArgumentException: Cesta nemá platný tvar.
+   v System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   v System.IO.Path.GetFullPathInternal(String path)
+   v System.IO.Path.GetFullPath(String path)
+   v System.IO.FileSystemWatcher.StartRaisingEvents()
+   v System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   v ModulWatcher.Watch.Check() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Watch.cs:řádek 55
+   v ModulWatcher.Main..ctor() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Main.cs:řádek 17
+   --- Konec trasování zásobníku pro vnitřní výjimku ---
+   v System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   v System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   v System.Activator.CreateInstance(Type type)
+   v AT.NET_FTPSync.Service1.OnStart(String[] args) v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\Service1.cs:řádek 36
+ OnStart: System.Reflection.TargetInvocationException: Cíl vyvolání způsobil výjimku. ---> System.ArgumentException: Cesta nemá platný tvar.
+   v System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   v System.IO.Path.GetFullPathInternal(String path)
+   v System.IO.Path.GetFullPath(String path)
+   v System.IO.FileSystemWatcher.StartRaisingEvents()
+   v System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   v ModulWatcher.Watch.Check() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Watch.cs:řádek 55
+   v ModulWatcher.Main..ctor() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Main.cs:řádek 17
+   --- Konec trasování zásobníku pro vnitřní výjimku ---
+   v System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   v System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   v System.Activator.CreateInstance(Type type)
+   v AT.NET_FTPSync.Service1.OnStart(String[] args) v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\Service1.cs:řádek 36
+ OnStart: System.Reflection.TargetInvocationException: Cíl vyvolání způsobil výjimku. ---> System.ArgumentException: Cesta nemá platný tvar.
+   v System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   v System.IO.Path.GetFullPathInternal(String path)
+   v System.IO.Path.GetFullPath(String path)
+   v System.IO.FileSystemWatcher.StartRaisingEvents()
+   v System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   v ModulWatcher.Watch.Check() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Watch.cs:řádek 55
+   v ModulWatcher.Main..ctor() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Main.cs:řádek 17
+   --- Konec trasování zásobníku pro vnitřní výjimku ---
+   v System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   v System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   v System.Activator.CreateInstance(Type type)
+   v AT.NET_FTPSync.Service1.OnStart(String[] args) v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\Service1.cs:řádek 36
+ OnStart: System.Reflection.TargetInvocationException: Cíl vyvolání způsobil výjimku. ---> System.ArgumentException: Cesta nemá platný tvar.
+   v System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   v System.IO.Path.GetFullPathInternal(String path)
+   v System.IO.Path.GetFullPath(String path)
+   v System.IO.FileSystemWatcher.StartRaisingEvents()
+   v System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   v ModulWatcher.Watch.Check() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Watch.cs:řádek 55
+   v ModulWatcher.Main..ctor() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Main.cs:řádek 17
+   --- Konec trasování zásobníku pro vnitřní výjimku ---
+   v System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   v System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   v System.Activator.CreateInstance(Type type)
+   v AT.NET_FTPSync.Service1.OnStart(String[] args) v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\Service1.cs:řádek 36
+ OnStart: System.Reflection.TargetInvocationException: Cíl vyvolání způsobil výjimku. ---> System.ArgumentException: Cesta nemá platný tvar.
+   v System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   v System.IO.Path.GetFullPathInternal(String path)
+   v System.IO.Path.GetFullPath(String path)
+   v System.IO.FileSystemWatcher.StartRaisingEvents()
+   v System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   v ModulWatcher.Watch.Check() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Watch.cs:řádek 55
+   v ModulWatcher.Main..ctor() v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\ModulWatcher\Main.cs:řádek 17
+   --- Konec trasování zásobníku pro vnitřní výjimku ---
+   v System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   v System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   v System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   v System.Activator.CreateInstance(Type type)
+   v AT.NET_FTPSync.Service1.OnStart(String[] args) v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\AT.NET-FTPSync\Service1.cs:řádek 36
+aaa - kopie - kopie.txt byl nahran
+popup - kopie.PNG byl nahran
+aaaaaaaaaaaaaaa - kopie (2).txt byl nahran
+popup - kopie (2).PNG byl nahran
+bbbb.txt byl nahran
+hostingstart - kopie.html byl nahran
+aaaaaaaaaaaaaaa - kopie.txt byl nahran
+hostingstart - kopie - kopie.html byl nahran
+hostingstart - kopie (2).html byl nahran
+Nový textový dokument.txt byl nahran
+ahoj.txt byl nahran
+ahoj.txt byl nahran
+aaaaaaaaaaaaaaa - kopie (2).txt byl nahran
+aaa - kopie - kopie.txt byl nahran
+ahoj.txt byl nahran
+aaaaaaaaaaaaaaa - kopie.txt byl nahran
+bbbb.txt byl nahran
+hostingstart - kopie.html byl nahran
+hostingstart - kopie (2).html byl nahran
+hostingstart - kopie - kopie.html byl nahran
+Nový textový dokument.txt byl nahran
+popup - kopie (2).PNG byl nahran
+popup - kopie.PNG byl nahran
+popup.PNG byl nahran
+ahoj.txt byl nahran
+ahoj.txt byl nahran

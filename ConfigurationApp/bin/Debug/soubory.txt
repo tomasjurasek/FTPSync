@@ -1,0 +1,8 @@
+aaaa.txt
+asd.txt
+Nový textový dokument.txt
+README.txt
+test.txt
+text.txt
+www
+

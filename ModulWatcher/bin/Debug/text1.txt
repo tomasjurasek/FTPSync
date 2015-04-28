@@ -1,0 +1,5 @@
+System.IO.DirectoryNotFoundException: Část cesty C:\Users\NT AUTHORITY\SYSTEM\AppData\Rouming\Configuration.xml nebyla nalezena.
+   v System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   v System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   v System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   v Shared.Settings.GetValue(String key) v c:\Users\Tomáš\Documents\Visual Studio 2013\Projects\AT.NET-FTPSync\Shared\Settings.cs:řádek 38
